@@ -43,7 +43,7 @@ npm run preview
 简要流程：
 
 ```powershell
-git clone <仓库地址>
+git clone https://github.com/moss-02/time-travel-demo.git
 cd time-travel-demo
 npm ci
 npm run lint
